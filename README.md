@@ -4,7 +4,7 @@
 
 💡Equal Contribution, 🌟Corresponding Author
 
-📄 **[Paper](https://arxiv.org/abs/2508.12644)** | 🌍 **[Project Page](https://cic.tju.edu.cn/faculty/likun/projects/DyCrowd/index.html)** | 💻 **[Code](https://github.com/KHB1698/DyCrowd)** (Coming Soon) | 📂 **[Datasets](#)**
+📄 **[Paper](https://arxiv.org/abs/2508.12644)** | 🌍 **[Project Page](https://cic.tju.edu.cn/faculty/likun/projects/DyCrowd/index.html)** | 💻 **[Code](https://github.com/KHB1698/DyCrowd)** | 📂 **[Datasets](#)**
 
 ![DyCrowd Framework Overview](assets/fig1.png)
 
