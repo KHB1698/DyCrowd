@@ -43,3 +43,14 @@ If you find our work useful, please consider citing:
 }
 ```
 
+
+Welcome to follow our latest work: [Crowd4D](https://github.com/KHB1698/Crowd4D)
+```
+@inproceedings{kang2026crowd4d,
+  author = {Hongbo Kang, Tianyi Zhou, Qingyang Yang, Hongwei Wen, Jing Huang, Yu-Kun Lai and Kun Li},
+  title = {Crowd4D: Scene-Aware Monocular 4D Crowd Reconstruction},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  year={2026}
+}
+```
+
