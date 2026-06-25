@@ -26,7 +26,7 @@ We construct VirtualCrowd, which includes:
 - Eight 8K validation videos (60–200 people; 931 sequences; 186,200 poses with 2D/3D annotations)
 - Comprehensive annotations for evaluating dynamic crowd reconstruction from large-scene videos
 
-**Requesting the Dataset:** Please contact [hbkang@tju.edu.cn](mailto:hbkang@tju.edu.cn) to request access to the VirtualCrowd dataset.
+**Download the Dataset:** [Hugging Face - VirtualCrowd](https://huggingface.co/datasets/KHB1698/VirtualCrowd)
 
 ---
 
